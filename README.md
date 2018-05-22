@@ -1,4 +1,4 @@
-## android-google-services-billing
+## android-google-play-billing
 
 Eclipse library project based on:<br/>
 https://google.bintray.com/play-billing/com/android/billingclient/billing/1.0/billing-1.0.aar
@@ -13,6 +13,6 @@ https://google.bintray.com/play-billing/com/android/billingclient/billing/1.0/bi
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
-  https://raw.githubusercontent.com/dandar3/android-google-services-billing/1.0/.projectset
+  https://raw.githubusercontent.com/dandar3/android-google-play-billing/1.0/.projectset
 - _File > Import... > SVN > Project from SVN > Create a new repository location > URL:_<br/>
-  https://github.com/dandar3/android-google-services-billing/tags/1.0
+  https://github.com/dandar3/android-google-play-billing/tags/1.0
