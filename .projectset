@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <psf version="2.0">
 <provider id="org.eclipse.team.svn.core.svnnature">
-<project reference="1.0.1,https://github.com/dandar3/android-google-play-billing/tags/1.2.1,google-play-billing,e050b96a88d400171f34eb29a15ef62e;https://github.com/dandar3/android-google-play-billing;https://github.com/dandar3/android-google-play-billing;branches;tags;trunk;true;8f1bf3be-f8e0-a76e-7301-ce57b7db7bff;https://github.com/dandar3/android-google-play-billing;;false;;;0"/>
+<project reference="1.0.1,https://github.com/dandar3/android-google-play-billing/tags/1.2.2,google-play-billing,e050b96a88d400171f34eb29a15ef62e;https://github.com/dandar3/android-google-play-billing;https://github.com/dandar3/android-google-play-billing;branches;tags;trunk;true;8f1bf3be-f8e0-a76e-7301-ce57b7db7bff;https://github.com/dandar3/android-google-play-billing;;false;;;0"/>
 </provider>
 </psf>
