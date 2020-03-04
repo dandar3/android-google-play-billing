@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.android.billingclient"
-    android:versionName="1.2.2" >
+    android:versionName="2.0.0" >
 
     <uses-sdk
         android:minSdkVersion="8"
@@ -10,6 +10,10 @@
     <uses-permission android:name="com.android.vending.BILLING" />
 
     <application>
+        <meta-data
+            android:name="com.google.android.play.billingclient.version"
+            android:value="2.0.0" />
+
         <activity
             android:name="com.android.billingclient.api.ProxyBillingActivity"
             android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
