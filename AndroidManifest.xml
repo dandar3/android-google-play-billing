@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.android.billingclient"
-    android:versionName="2.0.0" >
+    android:versionName="2.0.1" >
 
     <uses-sdk
         android:minSdkVersion="8"
@@ -12,7 +12,7 @@
     <application>
         <meta-data
             android:name="com.google.android.play.billingclient.version"
-            android:value="2.0.0" />
+            android:value="2.0.1" />
 
         <activity
             android:name="com.android.billingclient.api.ProxyBillingActivity"
